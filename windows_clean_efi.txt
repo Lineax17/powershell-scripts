@@ -1,0 +1,7 @@
+mountvol S: /S
+
+S:
+
+cd /EFI/
+
+Remove-Item -Recurse {EFI Entry to remove}
