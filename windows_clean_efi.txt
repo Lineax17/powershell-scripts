@@ -4,4 +4,6 @@ S:
 
 cd /EFI/
 
+dir
+
 Remove-Item -Recurse {EFI Entry to remove}
