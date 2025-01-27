@@ -11,5 +11,4 @@ REM Synchronisiert die Uhrzeit sofort.
 w32tm /resync
 
 REM Abschlussmeldung
-echo Der Windows-Zeitdienst wurde erfolgreich konfiguriert und synchronisiert.
-pause
+echo Der Windows-Zeitdienst wurde erfolgreich konfiguriert und synchronisiert
